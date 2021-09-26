@@ -1,0 +1,92 @@
+[
+  {
+    "key": 1,
+    "name": "Bernard Arnault",
+    "wealth": "USD$196 billion",
+    "sourceOfWealth": "Luxury goods",
+    "age": 72,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/bernard-arnault.jpg",
+    "amount": 1000000
+  },
+  {
+    "key": 2,
+    "name": "Jeff Bezos",
+    "wealth": "USD$186 billion",
+    "sourceOfWealth": "Amazon",
+    "age": 57,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/jeff-bezos.jpg",
+    "amount": 900000
+  },
+  {
+    "key": 3,
+    "name": "Elon Musk",
+    "wealth": "USD$160 billion",
+    "sourceOfWealth": "Tesla, SpaceX",
+    "age": 49,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/elon-musk.jpg",
+    "amount": 800000
+  },
+  {
+    "key": 4,
+    "name": "Bill Gates",
+    "wealth": "USD$124 billion",
+    "sourceOfWealth": "Microsoft",
+    "age": 65,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/bill-gates.jpg",
+    "amount": 700000
+  },
+  {
+    "key": 5,
+    "name": "Mark Zuckerberg",
+    "wealth": "USD$97 billion",
+    "sourceOfWealth": "Facebook",
+    "age": 36,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/mark-zuckerberg.jpg",
+    "amount": 600000
+  },
+  {
+    "key": 6,
+    "name": "Warren Buffett",
+    "wealth": "USD$96 billion",
+    "sourceOfWealth": "Berkshire Hathaway",
+    "age": 90,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/warren-buffett.jpg",
+    "amount": 500000
+  },
+  {
+    "key": 7,
+    "name": " Larry Ellison",
+    "wealth": "USD$93 billion",
+    "sourceOfWealth": "Software",
+    "age": 76,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/larry-ellison.jpg",
+    "amount": 400000
+  },
+  {
+    "key": 8,
+    "name": "Larry Page",
+    "wealth": "USD$91.5 billion",
+    "sourceOfWealth": "Google",
+    "age": 48,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/larry-page.jpg",
+    "amount": 300000
+  },
+  {
+    "key": 9,
+    "name": "Sergey Brin",
+    "wealth": "USD$89 billion",
+    "sourceOfWealth": "Google",
+    "age": 47,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/sergey-brin.jpg",
+    "amount": 200000
+  },
+  {
+    "key": 10,
+    "name": "Mukesh Ambani",
+    "wealth": "USD$84.5 billion",
+    "sourceOfWealth": "Diversified",
+    "age": 63,
+    "image": "https://manofmany.com/wp-content/uploads/2021/04/mukesh-ambani.jpg",
+    "amount": 100000
+  }
+]

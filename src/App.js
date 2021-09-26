@@ -1,9 +1,12 @@
 import './App.css';
+import Charity from './components/Charity/Charity';
+import Header from './components/Header/Header';
 
 function App() {
   return (
     <div className="App">
-    <h2>Hello</h2>
+      <Header></Header>
+      <Charity></Charity>
     </div>
   );
 }
