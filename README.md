@@ -8,4 +8,4 @@
 
 * You can add donation amount to cart and request for donation what your charity organization need.
 
-* Cart will show how many request you send, the total donation amount and who will donate after adding to the cart. 
+* Cart will show how many request you added, the total donation amount and who will donate after adding to the cart. 
