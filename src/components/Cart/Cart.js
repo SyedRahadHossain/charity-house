@@ -11,11 +11,11 @@ const Cart = (props) => {
     return (
         <div className="">
             <div className="bg-dark border border-secondary border-2 text-white rounded p-1 shadow-lg ">
-                <h3>Donation Information</h3>
+                <h4>Donation Information</h4>
                 <hr />
                 <h6>Total request: {cart.length} </h6>
                 <hr />
-                <h4>Total amount: ${total}</h4>
+                <h5>Total amount: ${total}</h5>
                 <ul className="list-group">
                     {cart.map((richpeople, index) => (
                         <small key={index}>

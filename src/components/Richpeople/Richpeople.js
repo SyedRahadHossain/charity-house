@@ -45,7 +45,7 @@ const Richpeople = (props) => {
                             onClick={() => props.handleAddRequest(props.richpeople)}
                             className="btn btn-dark"
                         >
-                            <i className="fas fa-hand-holding-usd"></i> Add request
+                            <i className="fas fa-hand-holding-usd"></i> Add to request
                         </button>
                     </div>
                 </div>
