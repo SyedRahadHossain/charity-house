@@ -1,6 +1,6 @@
 # Website name: Charity House
 
-#### You can visit [Charity House](https://charity-house.netlify.app/)
+## You can visit [Charity House](https://charity-house.netlify.app/)
 
 ## Website Information:
 
