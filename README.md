@@ -1,6 +1,6 @@
-# Charity House
+# Website name: Charity House
 
-You can visit [Charity House](https://charity-house.netlify.app/).
+#### You can visit [Charity House](https://charity-house.netlify.app/)
 
 ## Website Information:
 
@@ -8,4 +8,4 @@ You can visit [Charity House](https://charity-house.netlify.app/).
 
 * You can add donation amount to cart and request for donation what your charity organization need.
 
-* Cart will show how many request you send, the total donation amount and who is donating after adding to the cart. 
+* Cart will show how many request you send, the total donation amount and who will donate after adding to the cart. 
